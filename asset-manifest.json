@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/olx-react/static/css/main.6079d515.chunk.css",
-    "main.js": "/olx-react/static/js/main.93f1e39f.chunk.js",
-    "main.js.map": "/olx-react/static/js/main.93f1e39f.chunk.js.map",
+    "main.js": "/olx-react/static/js/main.adc09699.chunk.js",
+    "main.js.map": "/olx-react/static/js/main.adc09699.chunk.js.map",
     "runtime-main.js": "/olx-react/static/js/runtime-main.0decdb51.js",
     "runtime-main.js.map": "/olx-react/static/js/runtime-main.0decdb51.js.map",
-    "static/js/2.3f774f55.chunk.js": "/olx-react/static/js/2.3f774f55.chunk.js",
-    "static/js/2.3f774f55.chunk.js.map": "/olx-react/static/js/2.3f774f55.chunk.js.map",
+    "static/js/2.aa480e3e.chunk.js": "/olx-react/static/js/2.aa480e3e.chunk.js",
+    "static/js/2.aa480e3e.chunk.js.map": "/olx-react/static/js/2.aa480e3e.chunk.js.map",
     "index.html": "/olx-react/index.html",
     "static/css/main.6079d515.chunk.css.map": "/olx-react/static/css/main.6079d515.chunk.css.map",
-    "static/js/2.3f774f55.chunk.js.LICENSE.txt": "/olx-react/static/js/2.3f774f55.chunk.js.LICENSE.txt",
+    "static/js/2.aa480e3e.chunk.js.LICENSE.txt": "/olx-react/static/js/2.aa480e3e.chunk.js.LICENSE.txt",
     "static/media/olx-logo.b3f099a2.png": "/olx-react/static/media/olx-logo.b3f099a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0decdb51.js",
-    "static/js/2.3f774f55.chunk.js",
+    "static/js/2.aa480e3e.chunk.js",
     "static/css/main.6079d515.chunk.css",
-    "static/js/main.93f1e39f.chunk.js"
+    "static/js/main.adc09699.chunk.js"
   ]
 }
