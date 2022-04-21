@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/olx-react/static/css/main.6079d515.chunk.css",
-    "main.js": "/olx-react/static/js/main.3aa9de03.chunk.js",
-    "main.js.map": "/olx-react/static/js/main.3aa9de03.chunk.js.map",
+    "main.js": "/olx-react/static/js/main.93f1e39f.chunk.js",
+    "main.js.map": "/olx-react/static/js/main.93f1e39f.chunk.js.map",
     "runtime-main.js": "/olx-react/static/js/runtime-main.0decdb51.js",
     "runtime-main.js.map": "/olx-react/static/js/runtime-main.0decdb51.js.map",
     "static/js/2.3f774f55.chunk.js": "/olx-react/static/js/2.3f774f55.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.0decdb51.js",
     "static/js/2.3f774f55.chunk.js",
     "static/css/main.6079d515.chunk.css",
-    "static/js/main.3aa9de03.chunk.js"
+    "static/js/main.93f1e39f.chunk.js"
   ]
 }
