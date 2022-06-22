@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/olx-react/static/css/main.6079d515.chunk.css",
-    "main.js": "/olx-react/static/js/main.9896fe7d.chunk.js",
-    "main.js.map": "/olx-react/static/js/main.9896fe7d.chunk.js.map",
-    "runtime-main.js": "/olx-react/static/js/runtime-main.0decdb51.js",
-    "runtime-main.js.map": "/olx-react/static/js/runtime-main.0decdb51.js.map",
-    "static/js/2.0636071e.chunk.js": "/olx-react/static/js/2.0636071e.chunk.js",
-    "static/js/2.0636071e.chunk.js.map": "/olx-react/static/js/2.0636071e.chunk.js.map",
-    "index.html": "/olx-react/index.html",
-    "static/css/main.6079d515.chunk.css.map": "/olx-react/static/css/main.6079d515.chunk.css.map",
-    "static/js/2.0636071e.chunk.js.LICENSE.txt": "/olx-react/static/js/2.0636071e.chunk.js.LICENSE.txt",
-    "static/media/olx-logo.b3f099a2.png": "/olx-react/static/media/olx-logo.b3f099a2.png"
+    "main.css": "/Shakoor123/olx-react/static/css/main.6079d515.chunk.css",
+    "main.js": "/Shakoor123/olx-react/static/js/main.da6db627.chunk.js",
+    "main.js.map": "/Shakoor123/olx-react/static/js/main.da6db627.chunk.js.map",
+    "runtime-main.js": "/Shakoor123/olx-react/static/js/runtime-main.63fb38c0.js",
+    "runtime-main.js.map": "/Shakoor123/olx-react/static/js/runtime-main.63fb38c0.js.map",
+    "static/js/2.fbb7df60.chunk.js": "/Shakoor123/olx-react/static/js/2.fbb7df60.chunk.js",
+    "static/js/2.fbb7df60.chunk.js.map": "/Shakoor123/olx-react/static/js/2.fbb7df60.chunk.js.map",
+    "index.html": "/Shakoor123/olx-react/index.html",
+    "static/css/main.6079d515.chunk.css.map": "/Shakoor123/olx-react/static/css/main.6079d515.chunk.css.map",
+    "static/js/2.fbb7df60.chunk.js.LICENSE.txt": "/Shakoor123/olx-react/static/js/2.fbb7df60.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/Shakoor123/olx-react/static/media/olx-logo.b3f099a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0decdb51.js",
-    "static/js/2.0636071e.chunk.js",
+    "static/js/runtime-main.63fb38c0.js",
+    "static/js/2.fbb7df60.chunk.js",
     "static/css/main.6079d515.chunk.css",
-    "static/js/main.9896fe7d.chunk.js"
+    "static/js/main.da6db627.chunk.js"
   ]
 }
