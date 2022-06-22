@@ -63,7 +63,7 @@ useEffect(() => {
 
         </div>
       </div>
-      <div className="recommendations">
+      {/* <div className="recommendations">
         <div className="heading">
           <span>Fresh recommendations</span>
         </div>
@@ -85,7 +85,7 @@ useEffect(() => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
